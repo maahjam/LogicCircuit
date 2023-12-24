@@ -1,1 +1,1 @@
-In this project create decoder 2-4 for Logic circuit laboratory.
+In this repository create decoder 2-4, computing circuit, multiplexer, and common crossing for the Logic circuit laboratory.
